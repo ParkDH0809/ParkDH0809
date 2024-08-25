@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=89A5EA&height=150&section=header)
-# ✋ Park DongHwan 
+# ✋ Park Donghwan 
 
 <!--
 **ParkDH0809/ParkDH0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
